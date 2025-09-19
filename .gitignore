@@ -1,2 +1,11 @@
-".vs/" 
-
+# Visual Studio files
+.vs/
+*.vc.db
+*.vc.db-shm
+*.vc.db-wal
+*.vc.opendb
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates

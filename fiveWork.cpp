@@ -85,6 +85,10 @@ void listingThree(){
     }
     cout << endl;
 }
+
+void listingFour() {
+
+}
 int main()
 {
     /*
