@@ -1,0 +1,7 @@
+﻿  fiveWork.cpp
+C:\Users\user\Documents\___УЧЕБА\____СИАОД\пятая\fiveWork\fiveWork.cpp(12,24): warning C4554: "<<": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\user\Documents\___УЧЕБА\____СИАОД\пятая\fiveWork\fiveWork.cpp(32,27): warning C4244: +=: преобразование "double" в "unsigned char", возможна потеря данных
+C:\Users\user\Documents\___УЧЕБА\____СИАОД\пятая\fiveWork\fiveWork.cpp(67,27): warning C4244: +=: преобразование "double" в "unsigned __int64", возможна потеря данных
+  fiveWork.vcxproj -> C:\Users\user\Documents\___УЧЕБА\____СИАОД\пятая\fiveWork\x64\Debug\fiveWork.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
